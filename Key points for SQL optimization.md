@@ -1,5 +1,4 @@
 
-```
 
 - Use Indexing: Properly indexing your database tables can significantly speed up query performance by allowing the database to quickly locate the rows needed for a query.  
   
@@ -18,7 +17,4 @@
 - Consider Partitioning: Partition large tables to distribute data across multiple nodes, which can improve query performance by reducing I/O operations.  
   
 - Monitor Query Performance: Regularly monitor query performance using tools like query execution plans, database profiler, and performance monitoring tools to identify and address bottlenecks.
-
-```
-
 
