@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key points for SQL optimization.md",
+                "file": "Questions/recursive_ques/Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key points for SQL optimization"
+              "title": "Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers."
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key points for SQL optimization.md",
+                "file": "Questions/recursive_ques/Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Key points for SQL optimization"
+              "title": "Backlinks for Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers."
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key points for SQL optimization.md",
+                "file": "Questions/recursive_ques/Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Key points for SQL optimization"
+              "title": "Outgoing links from Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers."
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key points for SQL optimization.md"
+                "file": "Questions/recursive_ques/Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers..md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Key points for SQL optimization"
+              "title": "Outline of Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers."
             }
           }
         ]
@@ -179,7 +179,10 @@
   },
   "active": "6b72bfc7b5d25829",
   "lastOpenFiles": [
-    "README.md",
-    "Key points for SQL optimization.md"
+    "Key points for SQL optimization.md",
+    "Questions/recursive_ques/Recursive Common Table Expressions (CTEs) to identify and display the hierarchical structure of employees based on their reporting managers..md",
+    "Questions/recursive_ques",
+    "Questions",
+    "README.md"
   ]
 }
